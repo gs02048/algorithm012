@@ -30,4 +30,3 @@ func ndfs(root *Node){
 		nres = append(nres,root.Val)
 	}
 }
-
